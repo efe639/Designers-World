@@ -1,4 +1,5 @@
 # Designers-World Özel Bot
+<img src="https://komarev.com/ghpvc/?username=Designers-World&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/Designers-World" />
 <h3> Her hangi bir sorunda bana discord (Approval#5982) üzerinden bulaşabilirsiniz. </h3>
 <h1> Star atmayı unutmayınız. </h1>
 
