@@ -4,3 +4,4 @@
 <h1> Star atmayı unutmayınız. </h1>
 
 `config.js` dosyasını doldurmanız ve çoğu komutta ki kanal ıd'sını girmeyi unutmayın
+<p>Birkaç yerde eksiklik ve hata var onlarıda siz yaparsınız artık ❤</p>
